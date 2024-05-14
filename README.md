@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Sola! 👋
 
 <!--
 **SolaHasGit/SolaHasGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨‍💻 Learning to be a Full-Stack Developer <br/>
+👨‍🎓 Studying Computer Science at the University of North Carolina at Greensboro! <br/>
+[![SolaHasGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolaHasGit&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
