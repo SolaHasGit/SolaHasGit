@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👨‍💻 Learning to be a Full-Stack Developer <br/>
-👨‍🎓 Studying Computer Science at the University of North Carolina at Greensboro! <br/><br/>
+👨‍🎓 Studying Computer Science at the University of North Carolina at Greensboro <br/>
+📖 Currently learning about React.js <br/><br/>
 [![SolaHasGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolaHasGit&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
